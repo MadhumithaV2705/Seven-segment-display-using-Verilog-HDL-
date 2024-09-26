@@ -83,7 +83,7 @@ end
 endmodule
 
 #Output:
-![image](https://github.com/user-attachments/assets/6ae7ad25-bb00-4e1d-911a-16f249f5cb84)
+![image](https://github.com/user-attachments/assets/125c758e-cb3c-4a5f-8623-d860c5c048a4)
 
 
 Conclusion
